@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single"
+        android:background="#FF66A4EC">
+        <item
+            android:id="@+id/menu"
+
+            android:title="MENU"
+            android:background="#FF66A4EC"/>
+        <item
+            android:id="@+id/dars1"
+
+            android:title="1-dars" />
+        <item
+            android:id="@+id/dars2"
+
+            android:title="2-dars" />
+        <item
+            android:id="@+id/dars3"
+             android:title="3-dars" />
+        <item
+            android:id="@+id/dars4"
+
+            android:title="4-dars" />
+        <item
+            android:id="@+id/dars5"
+
+            android:title="5-dars" />
+        <item
+            android:id="@+id/dars6"
+
+            android:title="6-dars" />
+        <item
+            android:id="@+id/dars7"
+
+            android:title="7-dars" />
+        <item
+            android:id="@+id/dars8"
+
+            android:title="8-dars" />
+        <item
+            android:id="@+id/dars9"
+
+            android:title="9-dars" />
+        <item
+            android:id="@+id/dars10"
+
+            android:title="10-dars" />
+
+    </group>
+</menu>
